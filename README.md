@@ -1,4 +1,4 @@
-# hospital-management-system-
+## hospital-management-system-
 This project is for DIU hospital database management system <br>
  by : zayidmohamedy ![here](https://github.com/zayidmohamedy)
 ## Languages and Technologies used
